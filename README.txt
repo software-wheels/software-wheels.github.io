@@ -13,11 +13,11 @@ Programers and software companies.
 
 What features or functionalities does this website offer?
 
-Enable purches software-wheels's products and access to my blog.
+Enable purchase software-wheels's products and access to my blog.
 
-What is the schems structure of this website?
+What is the schema structure of this website?
 
-The main page is an intraduction of the software wheels company.
+The main page is an introduction of the Software Wheels company.
 In the top there is a menu with tabs to the products page, the blog and about me tab.
 
 What is the schema structure of the product page?
@@ -27,5 +27,5 @@ when pressing on a tile, a pop-up is opened with the product details.
 
 What does the blog contains?
 
-The blog contains a section with my articals about software, and a diffrent section for my general thoughts about life.
+The blog contains my articals about software.
 
