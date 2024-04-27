@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
+    <script type="text/javascript" src="./javascript/load_file.js"></script>
     <title>Software Wheels</title>
 </head>
 <body>
@@ -24,7 +25,10 @@
         <h1 id="welcome"></h1>
         <p id="about"></p>
 
-        <script src="javascripts/load_file.js?file=content\strings\index\introduction.txt"></script>
+        <script>
+            load_file("content/strings/index/introduction.json")
+        </script>
+        
     </main>
     <footer>
         &copy; 2024 Software Wheels

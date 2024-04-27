@@ -1,4 +1,4 @@
 {
-    "welcomeMessage": "Welcome to Software Wheels!",
-    "aboutText": "Software Wheels provides software utilities and articles to help developers build software more easily."
+    "welcome": "Welcome to Software Wheels!",
+    "about": "Software Wheels provides software utilities and articles to help developers build software more easily."
 }
